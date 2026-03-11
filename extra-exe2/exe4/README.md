@@ -318,16 +318,6 @@ Students must write the SQL expression used.
 
 ---
 
-# Submission Requirements
-
-Students must submit:
-
-1. SQL injection payloads used
-2. Explanation of why the attack works
-3. Screenshots showing successful exploitation
-
----
-
 # Reflection Questions
 
 1. Why does building SQL queries using string concatenation create vulnerabilities?
@@ -353,3 +343,10 @@ db.get(
 Explain why this prevents SQL injection.
 
 ---
+
+
+## Instructor Solution
+
+The instructor solution for this assignment is available here:
+
+[Instructor Solution](ANSWER_EXE4.md)
